@@ -28,4 +28,4 @@ return(false);
 * RS Schools Course «JavaScript/Front-end. Stage 0»
 ## Languages:
 * Russian - native speaker.
-* English - A1 (A in process…)
+* English - A1 (A2 in process…)
