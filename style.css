@@ -1,0 +1,180 @@
+.container {
+    height: 900px;
+    margin: 0 auto;
+}
+
+.inform {
+    width: 624px;
+    background: #1C4A3F;
+}
+
+.photo {
+    padding: 21px 0 0 29px;
+}
+
+.texts {
+    margin: 68px 0 54px 57px;
+}
+
+.title {
+    
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.subtitle {
+    margin: 54px 0;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #CACACA;
+}
+
+.block {
+    position: relative;
+    margin-bottom: 54px ;
+    width: 530px;
+    height: 60px;
+    left: 32px;
+    background-color: #FFFFFF;
+}
+
+.text {
+    position: absolute;
+    margin: 15px 0 6px 25px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.skills {
+    margin: 0;
+}
+
+.skill {
+    margin: 26px 0 5px 32px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    list-style-type: none;
+    color: #FFFFFF;
+}
+
+ul {
+    padding: 0;
+}
+
+.link {
+    margin: 24px 0 0 65px ;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.Hobbi {
+    margin: 45px 0 25px 32px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    list-style-type: none;
+    color: #FFFFFF;
+}
+
+.descr {
+    margin: 0 0 19px 65px;
+    list-style-type: circle;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.social {
+    margin: 44px 0 42px 32px ;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.icon {
+    margin: 0 0 60px 38px;
+    max-height: 33px;
+}
+
+.informs {
+    transform: translate(78%,-106%);
+    width: 800px;
+}
+
+.about {
+    margin: 68px 0 28px 48px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.wrapper {
+    margin: 0 0 32px 69px;
+    width: 375px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.Education {
+    margin: 56px 0 33px 50px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.dates {
+    margin-left: 80px;
+    display: flex;
+    flex-direction: row;
+}
+
+.date {
+    margin-bottom: 24px;
+    margin-right: 76px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    list-style-type: none;
+}
+
+.item {
+    margin-bottom: 24px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.language {
+    margin: 79px 0 52px 50px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.en {
+    margin-left: 82px;
+    margin-bottom: 24px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    list-style-type: none;
+    color: #000000;
+
+}
